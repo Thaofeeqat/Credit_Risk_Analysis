@@ -38,7 +38,7 @@ Below are the result of the analysis in screenshot:
    # Deliverable 3 
  Below is a screenshot from the Ensemble Classifiers which was also used to predict the credit risk
  
- ![Image Here](
+ ![Image Here](https://github.com/Thaofeeqat/Credit_Risk_Analysis/blob/main/Images/Ensemble%20Classifiers.png)
 
    
  
