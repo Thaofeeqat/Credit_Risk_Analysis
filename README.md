@@ -41,7 +41,6 @@ Below are the result of the analysis in screenshot:
  ![Image Here](https://github.com/Thaofeeqat/Credit_Risk_Analysis/blob/main/Images/Ensemble%20Classifiers.png)
 
 
-  SUMMARY
 
    
  
