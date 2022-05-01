@@ -13,20 +13,20 @@ Below are the result of the analysis in screenshot:
  
  * Deliverable 1
    In this delivery three models where used which are :
-               ** RandomOversampler
-               ** SMOTE
-               ** ClusterCentroids
+         * RandomOversampler
+          * SMOTE
+           * ClusterCentroids
                
      * RandomOversampler:
 
 ![Image Here](https://github.com/Thaofeeqat/Credit_Risk_Analysis/blob/main/Images/Resample.png)
 
     
-    ** SMOTE
+    * SMOTE
      
 ![Image Here](https://github.com/Thaofeeqat/Credit_Risk_Analysis/blob/main/Images/SMOTE.png)
 
-     * ClusterCentroids
+   * ClusterCentroids
     
 ![Image Here](
 
