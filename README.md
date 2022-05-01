@@ -12,10 +12,10 @@ The Dataset of this analysis was derieved from the credit dataset of  LendingClu
 Below are the result of the analysis in screenshot:
  
  * Deliverable 1
-   In this delivery three models where used which are :
-        * RandomOversampler
-        * SMOTE
-        * ClusterCentroids
+   In this delivery three models where used which are 
+        ** RandomOversampler
+        ** SMOTE
+        ** ClusterCentroids
                
      * RandomOversampler:
 
@@ -27,7 +27,7 @@ Below are the result of the analysis in screenshot:
 
    * ClusterCentroids
     
-![Image Here](
+![Image Here](https://github.com/Thaofeeqat/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids.png)
 
    
  
