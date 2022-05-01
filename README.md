@@ -11,13 +11,14 @@ The Dataset of this analysis was derieved from the credit dataset of  LendingClu
 # RESULTS
 Below are the result of the analysis in screenshot:
  
- * Deliverable 1
-   In this delivery three models where used which are 
-        ** RandomOversampler
-        ** SMOTE
-        ** ClusterCentroids
+  * Deliverable 1
+  
+In this delivery three models where used which are 
+    * RandomOversampler
+    * SMOTE
+    * ClusterCentroids
                
-     * RandomOversampler:
+   * RandomOversampler:
 
 ![Image Here](https://github.com/Thaofeeqat/Credit_Risk_Analysis/blob/main/Images/Resample.png)
 
@@ -29,5 +30,9 @@ Below are the result of the analysis in screenshot:
     
 ![Image Here](https://github.com/Thaofeeqat/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids.png)
 
+    # Deliverable 2
+ Below is a screenshot from the SMOTEENN machine learning model used to predict the credit risk;
+ 
+ ![Image Here](
    
  
