@@ -17,8 +17,12 @@ Below are the result of the analysis in screenshot:
                * SMOTE
                ClusterCentroids
                
-* RandomOversampler:
+     * RandomOversampler:
 
-![Image Here](           
+![Image Here](https://github.com/Thaofeeqat/Credit_Risk_Analysis/blob/main/Images/Resample.png)
+
+     * SMOTE
+![Image Here](
+
    
  
